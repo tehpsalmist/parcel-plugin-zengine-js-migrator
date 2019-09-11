@@ -1,6 +1,6 @@
-# parcel-plugin-zengine-html-migrator
+# parcel-plugin-zengine-js-migrator
 
-Parcel plugin that interpolates v1 plugin JS into v2 JS file body
+Parcel plugin that interpolates v1 plugin JS into v2 JS file
 
 ## Installation
 
