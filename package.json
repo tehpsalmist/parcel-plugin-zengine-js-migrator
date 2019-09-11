@@ -1,0 +1,13 @@
+{
+    "name": "parcel-plugin-zengine-js-migrator",
+    "version": "0.0.1",
+    "main": "src/index.js",
+    "author": "Ben Steward <bstewardcodes@gmail.com>",
+    "repository": "https://github.com/tehpsalmist/parcel-plugin-zengine-js-migrator",
+    "peerDependencies": {
+        "parcel-bundler": ">=1.12.3"
+    },
+    "devDependencies": {
+        "parcel-bundler": ">=1.12.3"
+    }
+}
