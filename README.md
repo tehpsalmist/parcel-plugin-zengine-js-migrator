@@ -2,6 +2,10 @@
 
 Parcel plugin that interpolates v1 plugin JS into v2 JS file
 
+Also see:
+[parcel-plugin-zengine-html-migrator](https://github.com/tehpsalmist/parcel-plugin-zengine-html-migrator)
+[parcel-plugin-zengine-css-migrator](https://github.com/tehpsalmist/parcel-plugin-zengine-css-migrator)
+
 ## Installation
 
 `npm i -d parcel-plugin-zengine-js-migrator`
