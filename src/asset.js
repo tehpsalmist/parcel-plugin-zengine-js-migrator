@@ -7,7 +7,7 @@ class ZengineMigratorJSAsset extends JSAsset {
     }
 
     interpolate(code) {
-        const replacement = require('fs').readFileSync(require('path').resolve(process.cwd(), 'plugin', 'plugin.js'))
+        const replacement = require('fs').readFileSync(require('path').resolve(process.cwd(), 'v1-output', 'plugin.js'))
         return code.replace(/\/\*\s*PLUGIN_JS\s*\*\//, replacement)
     }
 }

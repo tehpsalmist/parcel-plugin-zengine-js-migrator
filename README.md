@@ -15,7 +15,7 @@ _Attention: parcel-bundler has to be installed_
 ## Usage
  
 1. Add this multi-line-style comment: `/* PLUGIN_JS */` to your `src/plugin.js` (probably at the bottom of that file).
-2. Ensure all of your plugin's JS lives in `plugin/plugin.js`
+2. Ensure all of your plugin's JS lives in `v1-output/plugin.js`
 3. Run parcel normally
 
 ### Example
